@@ -46,19 +46,19 @@ $echo "# project-test" >> README.md -> 텍스트를 README 파일에 기록 </br
 </br></br>
 
 2. 문자를 굵게</br>
-//**문자**</br>
-//__문자__</br>
+**문자**</br>
+__문자__</br>
 
 </br></br>
 
 3. 문자를 기울게</br>
-//*문자*</br>
-//_문자_</br>
+*문자*</br>
+_문자_</br>
 
 </br></br>
 
 4. 취소선 </br>
-// ~~취소선~~</br>
+~~취소선~~</br>
 
 </br></br>
 
@@ -68,7 +68,7 @@ $echo "# project-test" >> README.md -> 텍스트를 README 파일에 기록 </br
 </br></br>
 
 6. 인용문 </br>
-> 인용문 </br>
+// 꺽쇠기호(>) 인용글 </br>
 
 </br></br>
 
